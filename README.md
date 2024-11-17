@@ -68,6 +68,7 @@ cv2.destroyAllWindows()
 #### OUTPUT:
 
 ![Screenshot 2024-11-17 124637](https://github.com/user-attachments/assets/f0f36a95-17a5-41c0-9920-a211a6a5317b)
+
 ![Screenshot 2024-11-17 124646](https://github.com/user-attachments/assets/458f621d-614f-4056-9d8e-6198432ea597)
 
 ### II)Perform handwritting detection in an image
@@ -136,7 +137,7 @@ plt.imshow(cv2.cvtColor(img,cv2.COLOR_BGR2RGB))
 ```
 
 #### OUTPUT:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/5e536cc5-8fc3-4a65-bbc7-28990f5e3d75)
 
 ## Result:
 Thus, a python program using OpenCV for following image manipulations is done successfully
